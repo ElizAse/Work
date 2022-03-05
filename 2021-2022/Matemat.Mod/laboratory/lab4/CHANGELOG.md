@@ -1,0 +1,35 @@
+- Markdown presentation file added
+- Pdf presentation file added
+- Docx report file added
+- Modelica file for 3 task added
+- Modelica file for 2 task added
+- Modelica file for 1 task added
+- Archive of screens added
+- Docx report file added
+- Pdf report file added
+- Pdf presentation file added
+- Markdowm presentation file added
+- Markdowm report file added
+- Markdowm presentation file added
+- Markdowm report file added
+- Lab screens added
+- Fixed
+- Changelog file added
+- Modelica second file added
+- Modelica first file added
+- Pdf presentation file added
+- Markdown presentation file added
+- Pdf report file added
+- Docx report file added
+- Markdown report file added
+- Lab pics added
+- Changelog file added
+- Scilab code added
+- Pdf presentation added
+- Markdown presentation added
+- Pdf report file added
+- Docx file added
+- Lab pics added
+- Markdown file added
+- Markdown file added
+- Added pictures of lab
